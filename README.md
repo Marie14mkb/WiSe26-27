@@ -13,7 +13,8 @@ Mein nachgestellte Instagramseite auf Figma <br>
 https://www.figma.com/community/file/1701290130011390542
 <br>
 <br>
-[Instagram-Seite_files.zip](https://github.com/user-attachments/files/35035662/Instagram-Seite_files.zip)
+[Icon.zip](https://github.com/user-attachments/files/35075770/Icon.zip)
+
 <br>
 <br>
 
