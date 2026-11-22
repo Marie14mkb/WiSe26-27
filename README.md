@@ -17,22 +17,17 @@ https://www.figma.com/community/file/1701290130011390542
 <br>
 <br>
 [Icon.zip](https://github.com/user-attachments/files/35075770/Icon.zip)
-
 <br>
 <br>
 
 Hier ist meine Codierung für mein U-Boot. <br>
-<br>
 [submarine assets.zip](https://github.com/user-attachments/files/35034910/submarine.assets.zip)
 <br>
 <br>
-Mein Ordner zum Drumpad. <br>
-<br>
-<br>
+Mein Ordner zum Drumpad.<br>
 [Drum Pad.zip](https://github.com/user-attachments/files/35239175/Drum.Pad.zip)
 <br>
+<br>
 Ich habe versucht mit dem Bot den Sound auszulösen, aber irgendwie wollte mir das nicht gelingen. <br>
-Als Beweis, das der Bot aber reagiert, habe ich ein Video in dem Ordner abgelegt.
-<br>
-<br>
+Als Beweis, das der Bot aber reagiert, habe ich ein Video in dem Ordner abgelegt.<br>
 [Video + Foto.zip](https://github.com/user-attachments/files/35239706/Video.%2B.Foto.zip)
