@@ -23,3 +23,11 @@ Hier ist meine Codierung für mein U-Boot. <br>
 [submarine assets.zip](https://github.com/user-attachments/files/35034910/submarine.assets.zip)
 <br>
 <br>
+Mein Ordner zum Drumpad. <br>
+Ich habe versucht mit dem Bot den Sound auszulösen, aber irgendwie wollte mir das nicht gelingen. <br>
+Als Beweis, das der Bot aber reagiert, habe ich ein Video in dem Ordner abgelegt.
+<br>
+<br>
+
+
+
