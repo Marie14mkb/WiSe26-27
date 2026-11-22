@@ -1,3 +1,6 @@
+
+
+
 Creative Coding 1 WiSe26/27 <br>
 Eine Github Seite von Marie Späth <br>
 <br>
@@ -24,10 +27,12 @@ Hier ist meine Codierung für mein U-Boot. <br>
 <br>
 <br>
 Mein Ordner zum Drumpad. <br>
-Ich habe versucht mit dem Bot den Sound auszulösen, aber irgendwie wollte mir das nicht gelingen. <br>
-Als Beweis, das der Bot aber reagiert, habe ich ein Video in dem Ordner abgelegt.
 <br>
 <br>
 [Drum Pad.zip](https://github.com/user-attachments/files/35239175/Drum.Pad.zip)
 <br>
-
+Ich habe versucht mit dem Bot den Sound auszulösen, aber irgendwie wollte mir das nicht gelingen. <br>
+Als Beweis, das der Bot aber reagiert, habe ich ein Video in dem Ordner abgelegt.
+<br>
+<br>
+[Video + Foto.zip](https://github.com/user-attachments/files/35239706/Video.%2B.Foto.zip)
